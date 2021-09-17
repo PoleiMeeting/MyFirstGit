@@ -11,6 +11,7 @@
 		<input type="text">
 		<input type="password">
 		<input type="submit" value="로그인">
+		<input type="reset" value="취소">
 	</form>
 </body>
 </html>
